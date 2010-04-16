@@ -1,0 +1,8 @@
+GCC-4.5 and above supports plugins. This project explores this mechanism.
+Most code is taken from gcc/g++ testsuites.
+Two real-world examples are dragonegg and melt (Middle End Lisp Translator).
+
+References:
+http://gcc.gnu.org/wiki/plugins
+http://gcc.gnu.org/onlinedocs/gccint/Plugins.html
+http://ehren.wordpress.com/2009/11/04/creating-a-gcc-optimization-plugin/
